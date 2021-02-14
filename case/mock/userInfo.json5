@@ -1,0 +1,6 @@
+{
+    id:"@id()",//sadasd
+    username:"@cname()",
+    date:"@date()",
+    ip:"@ip()"
+}
